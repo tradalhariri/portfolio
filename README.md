@@ -222,3 +222,77 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+---------------
+
+[My Portfolio](https://trad-almelhem.netlify.app/)'
+[Trello](https://trello.com/b/mFQFmSaM/portfolio)
+
+
+
+
+Number and name of feature: 
+
+1. Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 1 pm 
+
+Finish time: 2 pm
+
+Actual time needed to complete: 1 hour
+
+------
+
+Number and name of feature: 
+
+2. Profile Page: As a user, I want to know all about the developer's professional history and values along with their personality.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 2 pm 
+
+Finish time: 3:30 pm
+
+Actual time needed to complete: 1.5 hour
+
+-------
+Number and name of feature: 
+
+3. Nav, Header and Footer: As a user, I want a clean, easy to use UX so I can easily find the information that I want and know what I am looking at.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 4 pm 
+
+Finish time: 5:30 pm
+
+Actual time needed to complete: 1.5 hour
+
+---------
+Number and name of feature: 
+
+4. Portfolio Page: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills.
+
+Estimate of time needed to complete: 2 hour
+
+Start time: 6 pm 
+
+Finish time: 9 pm
+
+Actual time needed to complete: 3 hour
+
+-------------
+5. Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev.
+
+Estimate of time needed to complete: half hour
+
+Start time: 10 pm 
+
+Finish time: 12 am
+
+Actual time needed to complete: 2 hour
+
+
